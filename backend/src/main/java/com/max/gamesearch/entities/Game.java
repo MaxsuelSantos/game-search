@@ -1,5 +1,6 @@
 package com.max.gamesearch.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.max.gamesearch.enums.Platform;
 
 import javax.persistence.*;
